@@ -23,3 +23,7 @@
 # 1. Up and Running Quickly
 
 \-
+
+# 2. Exploring the TypeSystem
+
+\-
