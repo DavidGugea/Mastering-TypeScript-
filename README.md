@@ -27,3 +27,7 @@
 # 2. Exploring the TypeSystem
 
 \-
+
+# 3. Interfaces, Classes, Inheritance, and Modules
+
+\-
