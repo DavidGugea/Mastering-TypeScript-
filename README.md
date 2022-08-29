@@ -31,3 +31,7 @@
 # 3. Interfaces, Classes, Inheritance, and Modules
 
 \-
+
+## 4. Generics and Advanced Type Inference
+
+\-
