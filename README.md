@@ -39,3 +39,7 @@
 ## 5. Asynchronous Language Features
 
 \-
+
+## 6. Decorators
+
+\-
