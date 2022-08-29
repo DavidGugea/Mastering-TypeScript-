@@ -99,3 +99,7 @@ Without integration tests, these types of errors will only be picked up in the l
 Acceptance tests are black-box tests and are generally scenario-based. They may incorporate multiple user screens or user interactions in order to pass. Although these tests are generally carried out by a testing team, they can be automated fairly easily with the wealth of modern testing tools that are readily available.
 
 Automating acceptance testing is really the holy grail of the testing tree. Humans can easily make mistakes and using a testing team to repeatedly run hundreds of acceptance tests is not always reliable, is expensive, and takes a long time. Computers are very good at doing repetitive tasks over and over again, and they can also do them faster than humans. Having an automated acceptance test suite the runs overnight, for example, can give the development team early access to any test failures, which will reduce costs immensely. Having a full suite of automated acceptance tests also proves that the application works, and that new features have not inadvertently broken older ones
+
+## 11. Angular
+
+\-
