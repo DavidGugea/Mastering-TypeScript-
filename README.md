@@ -43,3 +43,7 @@
 ## 6. Decorators
 
 \-
+
+## 7. Integration with JavaScript
+
+\-
