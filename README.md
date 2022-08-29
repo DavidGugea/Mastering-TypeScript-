@@ -47,3 +47,7 @@
 ## 7. Integration with JavaScript
 
 \-
+
+## 8. Strict Compiler Options
+
+\-
